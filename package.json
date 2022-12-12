@@ -8,7 +8,7 @@
     "body-parser": "^1.19.0",
     "cookie-parser": "^1.4.4",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jsonwebtoken": "^8.5.1",
     "mssql": "^4.1.0",
     "nanoid": "^2.1.9",
